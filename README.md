@@ -1,8 +1,6 @@
-# hexo-matery-modified
-My personal modified hexo matery theme with some bugs fixed, modified from [hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery)
+# Albert Chen 的个人博客
 
-# Demo
-[https://godweiyang.com](https://godweiyang.com)
+根据教程https://godweiyang.com/2018/04/13/hexo-blog/自由发挥的
 
-# Usage
-[https://godweiyang.com/2018/04/13/hexo-blog/](https://godweiyang.com/2018/04/13/hexo-blog/)
+使用的https://github.com/Siricee/hexo-theme-Chic/blob/master/README-CN.md 主题
+
