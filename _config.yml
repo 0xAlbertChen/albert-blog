@@ -113,7 +113,7 @@ theme: 3-hexo
 deploy:
 - type: git
   repository:
-   github: https://github.com/xy83918/xy83918.github.io.git
+   github: git@github.com:0xAlbertChen/0xAlbertChen.github.io.git
     # coding: git@e.coding.net:godweiyang/godweiyang.git
   branch: master
 - type: baidu_url_submitter
