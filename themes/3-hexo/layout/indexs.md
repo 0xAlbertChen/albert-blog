@@ -3,7 +3,7 @@
 
 一直知道Github可以做博客用，搭建一个发点简书不让发的内容
 
-## 关于叶落阁
+## 关于日迹日绩
 **日迹日绩 ** 是 AlbertChen凯 的个人站。
 
 到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。
